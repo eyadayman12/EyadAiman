@@ -1,7 +1,7 @@
-## Hey 👋, I'm [Nour](https://github.com/nouraldinmedhat/)
+## Hey 👋, I'm [Eyad](https://github.com/eyadayman12/)
 
 <p align="center">
-  <img src="https://c.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif" />
+  <img src="https://www.google.com/search?q=AI.gif&sxsrf=APq-WBv3n95Kqza-Npo60yDYoouycgP8Vg:1646252811535&tbm=isch&source=iu&ictx=1&vet=1&fir=q10OYBBtY6HX8M%252CLH33VApsxBkUXM%252C_%253BxnFoZ3qnzDgZiM%252CnUfv26opMhfroM%252C_%253BVo4kcRyOSnAlAM%252CzFRM8DFKwn9ykM%252C_%253BNIPP7PEe5ujtmM%252C9fZRck1ZEEL4nM%252C_%253BNgFQatjkjQoyhM%252CJ9a17pXin5OZSM%252C_%253B_YL98aaDsGEXkM%252CFJxhjfs9G_OU3M%252C_%253BIb4C5YPapXQE9M%252CqGdlsrHNy762pM%252C_%253BLv6iHVt1vqBoNM%252CVecADSgtuxLH1M%252C_%253BzoQ8yeY3CAUdfM%252C2SHQZ6rV-A9anM%252C_%253BofzBlJIsMyvAbM%252CJYFrSZCwfy6gVM%252C_%253BbnJWkFMKM2lZgM%252Cd5L-ceHhKa5ArM%252C_%253BS2VoqSTEMpY0nM%252CdvXaUFXNvWZFDM%252C_%253BlqSlA2TIqBz-cM%252C3H4sbphX79-GmM%252C_%253Br-tR6Kn0F75BSM%252CIM2EQ9J8R1YwpM%252C_%253BHpQbYHi5l43rwM%252CcdmtG9tslP-SUM%252C_&usg=AI4_-kQD_Gs6UYiKUv0VK2Fzjzuc3M2icg&sa=X&ved=2ahUKEwi12arQoaj2AhUQ2BoKHTKMDIwQ9QF6BAgDEAE#imgrc=q10OYBBtY6HX8M.gif"/>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nouraldinmedhat/)
