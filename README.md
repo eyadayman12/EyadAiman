@@ -10,7 +10,7 @@
 
 I'm a Computer Science Student 🎓 at Helwan University 🏛. Studied Data Science, Machine and Deep learning. keen to pursue a career in Artificial Intelligence with a focus on Data science, Machine and Deep learning, aims to create AI-based applications in fields such as NLP and Computer Vision
 
-Joined Github **4** years ago.
+Joined Github **7** Months ago.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraldinmedhat&label=Profile%20views&color=0e75b6&style=flat" alt="nouraldinmedhat" /> </p>
 
 
