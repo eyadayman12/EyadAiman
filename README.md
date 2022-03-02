@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Eyad](https://github.com/eyadayman12/)
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/media/1e1cd2110453b4046d6e6969f6dbab28.gif"/>
+  <img src="https://i.pinimg.com/originals/5e/0c/09/5e0c09805d04718512864363ab3f0d78.gif"/>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eyad-aiman-4645111b4/)
