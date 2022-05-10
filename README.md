@@ -22,7 +22,7 @@ Like My Work?
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Python, C++, NLP, Computer Vision.  
-- 🚀 &nbsp; I’m currently learning Problem Solving.
+- 🚀 &nbsp; I’m currently Learning and Practicing Problem Solving & CP.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/eyadayman12).
 - 📫 &nbsp; How to reach me: eyadkepeer@gmail.com.
 
