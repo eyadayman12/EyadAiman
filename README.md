@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/eyad_aiman" target="blank"><img src="https://img.shields.io/twitter/follow/eyad_aiman?logo=twitter&style=for-the-badge" alt="eyad_aiman" /></a> </p>
 
-- 💼 I’m COO and Head of AI at **Golden Hornet**
+- 💼 I’m a Machine Learning Engineer @ **Moweex**
 
-- 🌱 I’m currently learning **Fastai and MLOps**
+- 👨‍💻 some of my projects are available at [https://www.kaggle.com/eyadgk](https://www.kaggle.com/eyadgk)
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/eyadgk](https://www.kaggle.com/eyadgk)
-
-- 💬 Ask me about **Python, Pandas, OpenCV Sklearn and Tensorflow**
+- 💬 Ask me about **Python, Pandas, Sklearn, Tensorflow, Transformers and Langchain**
 
 - 📫 How to reach me **eyadaiman@outlook.com**
 
